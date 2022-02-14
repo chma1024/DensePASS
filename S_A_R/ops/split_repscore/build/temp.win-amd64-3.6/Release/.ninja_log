@@ -1,0 +1,3 @@
+# ninja log v5
+1	7278	6363914218230949	C:/Users/eggpa/domain-adaptation-for-panoramic-image-segmentation/thesis/new-try/ops/split_repscore/build/temp.win-amd64-3.6/Release/src/split_repscore_cuda.obj	a452d136adabc13d
+5	11282	6363914258184449	C:/Users/eggpa/domain-adaptation-for-panoramic-image-segmentation/thesis/new-try/ops/split_repscore/build/temp.win-amd64-3.6/Release/src/split_repscore_kernel.obj	471b9e5001fdef94

@@ -1,0 +1,3 @@
+# ninja log v5
+1	7304	6363905949421814	C:/Users/eggpa/domain-adaptation-for-panoramic-image-segmentation/thesis/new-try/ops/match_boundary/build/temp.win-amd64-3.6/Release/src/match_boundary_cuda.obj	ac6125682f968ba8
+5	10500	6363905981341581	C:/Users/eggpa/domain-adaptation-for-panoramic-image-segmentation/thesis/new-try/ops/match_boundary/build/temp.win-amd64-3.6/Release/src/match_boundary_kernel.obj	d8107cd09304b532
